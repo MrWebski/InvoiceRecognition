@@ -32,7 +32,7 @@ Faktury zawierają specyficzne dane, które muszą zostać odpowiednio rozpoznan
 
 Głównym celem jest stworzenie prototypu oprogramowania do rozpoznania i przetworzenia informacji zawartych w fakturach. W tym celu konieczne jest wykonanie następujących czynności:
 
-**Badanie powinno wykazać:
+**Badanie powinno wykazać:**
 
 ◦ istniejące silniki OCR pod względem ich skuteczności w rozpoznawaniu słów na fakturach,
 
@@ -40,7 +40,7 @@ Głównym celem jest stworzenie prototypu oprogramowania do rozpoznania i przetw
 
 ◦ w jaki sposób proces interpretacji faktur zostanie zautomatyzowany za pomocą uczenia maszynowego na danych specyficznych dla faktury.
 
-**Wdrożenie silnika OCR powinno:
+**Wdrożenie silnika OCR powinno:**
 
 ◦ popełniać niewiele błędów,
 
@@ -48,7 +48,7 @@ Głównym celem jest stworzenie prototypu oprogramowania do rozpoznania i przetw
 
 ◦ zachować strukturę faktur.
 
-**Implementacja uczenia maszynowego powinna:
+**Implementacja uczenia maszynowego powinna:**
 
 ◦ wykazać, czy dane w fakturach są prawidłowe, czy powinny być nadzorowane i poprawiane ręcznie,
 
@@ -56,7 +56,7 @@ Głównym celem jest stworzenie prototypu oprogramowania do rozpoznania i przetw
 
 ◦ określić procentowo, stopień poprawności faktury.
 
-**Analiza powinna:
+**Analiza powinna:**
 
 ◦ ocenić, w jaki sposób istniejące silniki OCR działają na różnych fakturach,
 
