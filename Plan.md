@@ -34,28 +34,38 @@ Głównym celem jest stworzenie prototypu oprogramowania do rozpoznania i przetw
 
 • Badanie powinno wykazać:
 
-    ◦ istniejące silniki OCR pod względem ich skuteczności w rozpoznawaniu słów na fakturach,
-    ◦ w jaki sposób można zastosować dopasowanie tekstu w celu wydobycia danych strukturalnych ze zwykłego tekstu i poprawienia błędów generowanych przez OCR,
-    ◦ w jaki sposób proces interpretacji faktur zostanie zautomatyzowany za pomocą uczenia maszynowego na danych specyficznych dla faktury.
+◦ istniejące silniki OCR pod względem ich skuteczności w rozpoznawaniu słów na fakturach,
+
+◦ w jaki sposób można zastosować dopasowanie tekstu w celu wydobycia danych strukturalnych ze zwykłego tekstu i poprawienia błędów generowanych przez OCR,
+
+◦ w jaki sposób proces interpretacji faktur zostanie zautomatyzowany za pomocą uczenia maszynowego na danych specyficznych dla faktury.
 
 • Wdrożenie silnika OCR powinno:
 
-    ◦ popełniać niewiele błędów,
-    ◦ wytwarzać czytelny zwykły tekst,
-    ◦ zachować strukturę faktur.
+◦ popełniać niewiele błędów,
+
+◦ wytwarzać czytelny zwykły tekst,
+
+◦ zachować strukturę faktur.
 
 • Implementacja uczenia maszynowego powinna:
 
-    ◦ wykazać, czy dane w fakturach są prawidłowe, czy powinny być nadzorowane i poprawiane ręcznie,
-    ◦ być modułowa, aby ułatwić dostosowanie rozwiązania do przyszłych dziedzin,
-    ◦ określić procentowo, stopień poprawności faktury.
+◦ wykazać, czy dane w fakturach są prawidłowe, czy powinny być nadzorowane i poprawiane ręcznie,
+
+◦ być modułowa, aby ułatwić dostosowanie rozwiązania do przyszłych dziedzin,
+
+◦ określić procentowo, stopień poprawności faktury.
 
 • Analiza powinna:
 
-    ◦ ocenić, w jaki sposób istniejące silniki OCR działają na różnych fakturach,
-    ◦ stwierdzić, czy prototyp maszyny do nauki staje się lepszy pod wpływem ilości przetwarzanych danych,
-    ◦ obliczyć, z jaką pewnością protokół uczenia maszynowego dostarczy odpowiedź,
-    ◦ ocenić, czy technika jest działającą alternatywą dla ludzkiego nadzoru.
+
+◦ ocenić, w jaki sposób istniejące silniki OCR działają na różnych fakturach,
+
+◦ stwierdzić, czy prototyp maszyny do nauki staje się lepszy pod wpływem ilości przetwarzanych danych,
+
+◦ obliczyć, z jaką pewnością protokół uczenia maszynowego dostarczy odpowiedź,
+
+◦ ocenić, czy technika jest działającą alternatywą dla ludzkiego nadzoru.
 
 # Utrudnienia projektowe
 
