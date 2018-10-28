@@ -24,26 +24,26 @@ Faktury zawierają specyficzne dane, które muszą zostać odpowiednio rozpoznan
 Głównym celem jest stworzenie prototypu oprogramowania do rozpoznania i przetworzenia informacji zawartych w fakturach. W tym celu konieczne jest wykonanie następujących czynności:
 
 **Badanie powinno wykazać:**
-- istniejące silniki OCR pod względem ich skuteczności w rozpoznawaniu słów na fakturach,
-- w jaki sposób można zastosować dopasowanie tekstu w celu wydobycia danych strukturalnych ze zwykłego tekstu i poprawienia błędów generowanych przez OCR,
-- w jaki sposób proces interpretacji faktur zostanie zautomatyzowany za pomocą uczenia maszynowego na danych specyficznych dla faktury.
+- Istniejące silniki OCR pod względem ich skuteczności w rozpoznawaniu słów na fakturach.
+- W jaki sposób można zastosować dopasowanie tekstu w celu wydobycia danych strukturalnych ze zwykłego tekstu i poprawienia błędów generowanych przez OCR.
+- W jaki sposób proces interpretacji faktur zostanie zautomatyzowany za pomocą uczenia maszynowego na danych specyficznych dla faktury.
 
 **Wdrożenie silnika OCR powinno:**
-- popełniać niewiele błędów,
-- wytwarzać czytelny zwykły tekst,
-- zachować strukturę faktur.
+- Popełniać niewiele błędów.
+- Wytwarzać czytelny zwykły tekst.
+- Zachować strukturę faktur.
 
 **Implementacja uczenia maszynowego powinna:**
-- wykazać, czy dane w fakturach są prawidłowe, czy powinny być nadzorowane i poprawiane ręcznie,
-- być modułowa, aby ułatwić dostosowanie rozwiązania do przyszłych dziedzin,
-- określić procentowo, stopień poprawności faktury.
+- Wykazać, czy dane w fakturach są prawidłowe, czy powinny być nadzorowane i poprawiane ręcznie.
+- Być modułowa, aby ułatwić dostosowanie rozwiązania do przyszłych dziedzin.
+- Określić procentowo, stopień poprawności faktury.
 
 **Analiza powinna:**
-- ocenić, w jaki sposób istniejące silniki OCR działają na różnych fakturach,
-- stwierdzić, czy prototyp maszyny do nauki staje się lepszy pod wpływem ilości przetwarzanych danych,
-- obliczyć, z jaką pewnością protokół uczenia maszynowego dostarczy odpowiedź,
-- ocenić, czy technika jest działającą alternatywą dla ludzkiego nadzoru.
+- Ocenić, w jaki sposób istniejące silniki OCR działają na różnych fakturach.
+- Stwierdzić, czy prototyp maszyny do nauki staje się lepszy pod wpływem ilości przetwarzanych danych.
+- Obliczyć, z jaką pewnością protokół uczenia maszynowego dostarczy odpowiedź.
+- Ocenić, czy technika jest działającą alternatywą dla ludzkiego nadzoru.
 
 # Utrudnienia projektowe
-- Trudności w rozpoznawaniu tekstu odręcznego,
-- rozpoznawanym językiem będzie jedynie język polski i angielski.
+- Trudności w rozpoznawaniu tekstu odręcznego.
+- Rozpoznawanym językiem będzie jedynie język polski i angielski.
