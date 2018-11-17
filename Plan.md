@@ -13,7 +13,7 @@ Zagadnienie rozpoznawania maszynowego faktur jest utrudnione o tyle, że firmy s
 
 Faktury zawierają specyficzne dane, które muszą zostać odpowiednio rozpoznane przez system. Są to:
 - Liczba pozycji na fakturze.
-- Jednostki stosowane przy do określenia wartości.
+- Jednostki stosowane przy określeniu wartości.
 - Cena jednostkowa.
 - Waluta.
 - Informacje o produkcie.
